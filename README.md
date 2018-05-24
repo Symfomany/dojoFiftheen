@@ -4,8 +4,6 @@
 
 Write a method highestRank(arr) which returns the number which is most frequent in the given input array. If there is a tie for most frequent number, return the largest number of which is most frequent.
 
-
-
 ```
     arr = [12, 10, 8, 12, 7, 6, 4, 10, 12];
     highestRank(arr) //=> returns 12
@@ -17,17 +15,13 @@ Write a method highestRank(arr) which returns the number which is most frequent 
     highestRank(arr) //=> returns 3
 ```
 
-
 [https://www.codewars.com/kata/highest-rank-number-in-an-array](https://www.codewars.com/kata/highest-rank-number-in-an-array)
 
-
 ## Dojo 2 (Niveau 6)
-
 
 Freddy has a really fat left pinky finger, and every time Freddy tries to type an A, he accidentally hits the CapsLock key!
 
 Given a string that Freddy wants to type, emulate the keyboard misses where each A supposedly pressed is replaced with CapsLock, and return the string that Freddy actually types. It doesn't matter if the A in the string is capitalized or not. When CapsLock is enabled, capitalization is reversed, but punctuation is not affected.
-
 
 ```
     "The quick brown fox jumps over the lazy dog."
@@ -41,4 +35,3 @@ Given a string that Freddy wants to type, emulate the keyboard misses where each
 ```
 
 [https://www.codewars.com/kata/fat-fingers](https://www.codewars.com/kata/fat-fingers)
-
